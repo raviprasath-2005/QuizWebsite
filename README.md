@@ -93,7 +93,7 @@ npm run dev
 
 Open browser and visit:
 
-http://localhost:5173
+https://intelquizz.netlify.app/
 
 🔮 Future Improvements
 
